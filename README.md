@@ -3,3 +3,5 @@ A React Supplier Decision Dashboard that compares Supplier A and B using deliver
 
 <img width="813" height="729" alt="Image" src="https://github.com/user-attachments/assets/22a41004-627c-41ba-9ddc-70e18c0e6127" />
 <img width="802" height="452" alt="Image" src="https://github.com/user-attachments/assets/f79e0fa3-bdb3-482e-9d65-a1bc9474864b" />
+
+<img width="1556" height="1174" alt="Image" src="https://github.com/user-attachments/assets/40a93357-823e-432b-bbe6-40e413ea6f70" />
